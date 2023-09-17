@@ -7,7 +7,7 @@ Internet of Things (IoT) related projects and exercises (UC3M).
 
 - **iot-data-processing**: several examples and exercises of the course "Data Processing in IoT".
 
-    *Basic contents:* Spark, PySpark, Kafka, real-time processing
+    *Basic contents:* Spark, PySpark, Kafka, real-time processing, basic recommender systems and collaborative filtering, MLLib Pyspark
    
    <br/> 
 
@@ -20,4 +20,3 @@ Internet of Things (IoT) related projects and exercises (UC3M).
 - **iot-security**: examples of "Security in IoT" course.
 
     *Basic contents:* Authentication protocols in IoT
-
